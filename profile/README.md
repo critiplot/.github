@@ -1,4 +1,4 @@
-## Critiplot.
+![Preview](banner_github.png)
 
 ---
 
